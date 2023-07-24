@@ -1,8 +1,8 @@
-<b> Hi 👋 My name is Roman Solovey </b>
+ ### Hi 👋 My name is Roman Solovey
+
 <hr>
 
-
-<b>Junior Front-End Developer</b>
+#### Junior Front-End Developer
 
 
 In 2015-2018 worked as a representative and trainer in a large pharmaceutical company in Ukraine. 
@@ -19,7 +19,7 @@ Since 2018 I have been self-employed and started helping my wife create educatio
 💻 My course on Udemy: https://www.udemy.com/course/multiplication-table-in-3-hours 
 
 <br>
-<b>Highlights</b>
+<b> Highlights </b>
 <br>
 <br>
 
