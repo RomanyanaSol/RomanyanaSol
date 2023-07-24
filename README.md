@@ -1,11 +1,12 @@
-Hi 👋 My name is Roman Solovey
+<b> Hi 👋 My name is Roman Solovey </b>
 <hr>
 
 
-Junior Front-End Developer
---------------------------
+<b>Junior Front-End Developer</b>
 
-In 2015-2018 worked as a representative and trainer in a large pharmaceutical company in Ukraine. Worked on the creation of new promotional materials and made presentations on stage for more than 250 pharmacists.
+
+In 2015-2018 worked as a representative and trainer in a large pharmaceutical company in Ukraine. 
+<br>Worked on the creation of new promotional materials and made presentations on stage for more than 250 pharmacists.
 <br> At the same time, I always felt a craving for computer technology. 
 <br>
 <br>
@@ -29,15 +30,19 @@ Since 2018 I have been self-employed and started helping my wife create educatio
 <br>
 Because of the war we moved to Germany. 
 
-In 2023 completed the online course 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (10 months - 560 hours):
+In 2023 completed the online course <b>Front-End Development</b> (10 months - 560 hours):
 - Learned fundamental technologies like HTML/CSS & JavaScript
 - Built my own responsive website using jQuery, React, REST API
 
 <hr>
 
-* 🌍  I'm based in Magdeburg, Saxony-Anhalt, Germany
-* ✉️  You can contact me at [solovro31@gmail.com](mailto:solovro31@gmail.com)
-* 🚀  I'm currently working on [Digital Content Manager Self-employed](http://www.udemy.com/course/multiplication-table-in-3-hours)
+ 🌍  I'm based in Magdeburg, Saxony-Anhalt, Germany
+ <br>
+  ✉️  You can contact me at [solovro31@gmail.com](mailto:solovro31@gmail.com)
+<br>
+  🚀  I'm currently working on [Digital Content Manager Self-employed](http://www.udemy.com/course/multiplication-table-in-3-hours)
+
+  <hr>
 
 ### Skills
 
@@ -57,10 +62,14 @@ In 2023 completed the online course 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗪𝗲�
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<hr>
+
 
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/RomanSol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/SoloveyRomanio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/RomanyanaSol" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rsolovey/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/SvetlanaSolovey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+<hr>
 
 ### Badges
 
