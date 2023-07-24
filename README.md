@@ -1,10 +1,39 @@
 Hi 👋 My name is Roman Solovey
-==============================
+<hr>
+
 
 Junior Front-End Developer
 --------------------------
 
-In 2015-2018 worked as a representative and trainer in a large pharmaceutical company in Ukraine. Worked on the creation of new promotional materials and made presentations on stage for more than 250 pharmacists. At the same time, I always felt a craving for computer technology. Since 2018 I have been self-employed and started helping my wife create educational programs. I have created several WordPress sites. Made two applications for our clients using JavaScript. Filmed commercials, video lessons & cartoons for children. Worked in programs such as Adobe After Effects, Premiere Pro etc. 💻 My course on Udemy: https://www.udemy.com/course/multiplication-table-in-3-hours Because of the war we moved to Germany. In 2023 completed the online course 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (10 months - 560 hours): - Learned fundamental technologies like HTML/CSS & JavaScript - Built my own responsive website using jQuery, React, REST API
+In 2015-2018 worked as a representative and trainer in a large pharmaceutical company in Ukraine. Worked on the creation of new promotional materials and made presentations on stage for more than 250 pharmacists.
+<br> At the same time, I always felt a craving for computer technology. 
+<br>
+<br>
+Since 2018 I have been self-employed and started helping my wife create educational programs.
+<br> - Have created several WordPress sites. 
+<br> - Made two applications for our clients using JavaScript.
+<br> - Filmed commercials, video lessons & cartoons for children. 
+<br> - Worked in programs such as Adobe After Effects, Premiere Pro etc. 
+
+💻 My course on Udemy: https://www.udemy.com/course/multiplication-table-in-3-hours 
+
+<br>
+<b>Highlights</b>
+<br>
+<br>
+
+✅ Youtube channel (SvetlanaSolovey): 29K+ Subscribers
+<br>
+✅ Udemy (Multiplication table in 3 hours): 368 students
+
+<br>
+Because of the war we moved to Germany. 
+
+In 2023 completed the online course 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 (10 months - 560 hours):
+- Learned fundamental technologies like HTML/CSS & JavaScript
+- Built my own responsive website using jQuery, React, REST API
+
+<hr>
 
 * 🌍  I'm based in Magdeburg, Saxony-Anhalt, Germany
 * ✉️  You can contact me at [solovro31@gmail.com](mailto:solovro31@gmail.com)
