@@ -42,7 +42,7 @@ In 2023 completed the online course <b>Front-End Development</b> (10 months - 56
 <br>
   🚀  I'm currently working on [Digital Content Manager Self-employed](http://www.udemy.com/course/multiplication-table-in-3-hours)
 
-  <hr>
+<hr>
 
 ### Skills
 
